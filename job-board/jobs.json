@@ -1,0 +1,116 @@
+[
+    {
+      "title": "Software Engineer",
+      "company": "Apple",
+      "location": "Cupertino, CA",
+      "description": "We are looking for a Software Engineer to design and develop software applications."
+    },
+    {
+      "title": "Data Scientist",
+      "company": "Google",
+      "location": "Mountain View, CA",
+      "description": "We are looking for a Data Scientist to analyze and interpret complex data sets."
+    },
+    {
+      "title": "Product Manager",
+      "company": "Microsoft",
+      "location": "Redmond, WA",
+      "description": "We are looking for a Product Manager to define and deliver innovative products."
+    },
+    {
+      "title": "DevOps Engineer",
+      "company": "Amazon",
+      "location": "Seattle, WA",
+      "description": "We are looking for a DevOps Engineer to automate and optimize our infrastructure."
+    },
+    {
+      "title": "Designer",
+      "company": "Uber",
+      "location": "San Francisco, CA",
+      "description": "We are looking for a Designer to create visually appealing products and experiences."
+    },
+    {
+      "title": "Finance Manager",
+      "company": "Tesla",
+      "location": "Palo Alto, CA",
+      "description": "We are looking for a Finance Manager to oversee and manage financial operations."
+    },
+    {
+      "title": "Full Stack Developer",
+      "company": "Dropbox",
+      "location": "San Francisco, CA",
+      "description": "We are looking for a Full Stack Developer to build and maintain scalable web applications."
+    },
+    {
+      "title": "Marketing Specialist",
+      "company": "Slack",
+      "location": "San Francisco, CA",
+      "description": "We are looking for a Marketing Specialist to develop and implement marketing strategies."
+    },
+    {
+      "title": "Human Resources Manager",
+      "company": "Salesforce",
+      "location": "San Francisco, CA",
+      "description": "We are looking for a Human Resources Manager to oversee and manage HR operations."
+    },
+    {
+      "title": "Front End Developer",
+      "company": "LinkedIn",
+      "location": "Mountain View, CA",
+      "description": "We are looking for a Front End Developer to create interactive user interfaces."
+    },
+    {
+      "title": "Project Manager",
+      "company": "Google",
+      "location": "Mountain View, CA",
+      "description": "We are looking for a Project Manager to plan, coordinate, and oversee projects."
+    },
+    {
+      "title": "Data Analyst",
+      "company": "Facebook",
+      "location": "Menlo Park, CA",
+      "description": "We are looking for a Data Analyst to collect and analyze data to inform business decisions."
+    },
+    {
+      "title": "Quality Assurance Tester",
+      "company": "Microsoft",
+      "location": "Redmond, WA",
+      "description": "We are looking for a Quality Assurance Tester to ensure the quality of our software products."
+    },
+    {
+        "title": "Technical Writer",
+        "company": "Apple",
+        "location": "Cupertino, CA",
+        "description": "We are looking for a Technical Writer to create technical documentation for our products."
+      },
+      {
+        "title": "Business Analyst",
+        "company": "Amazon",
+        "location": "Seattle, WA",
+        "description": "We are looking for a Business Analyst to analyze business processes and recommend improvements."
+      },
+      {
+        "title": "UX Designer",
+        "company": "Uber",
+        "location": "San Francisco, CA",
+        "description": "We are looking for a UX Designer to design and improve user experiences."
+      },
+      {
+        "title": "Security Engineer",
+        "company": "Tesla",
+        "location": "Palo Alto, CA",
+        "description": "We are looking for a Security Engineer to design and implement security measures."
+      },
+      {
+        "title": "Back End Developer",
+        "company": "Dropbox",
+        "location": "San Francisco, CA",
+        "description": "We are looking for a Back End Developer to build and maintain server-side applications."
+      },
+      {
+        "title": "Content Writer",
+        "company": "Slack",
+        "location": "San Francisco, CA",
+        "description": "We are looking for a Content Writer to create engaging and informative content."
+      }
+    ]    
